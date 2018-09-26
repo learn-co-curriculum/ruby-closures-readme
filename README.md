@@ -107,4 +107,7 @@ If this is confusing to you, particularly the procs and lambdas, don't worry! Pr
 * [The Difference between Procs and Lambdas](http://www.skorks.com/2010/05/ruby-procs-and-lambdas-and-the-difference-between-them/)
 * [Jim Weirich on Procs and Lambdas](https://gist.github.com/mislav/4508988)
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/ruby-closures-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/ruby-closures-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-closures-readme' title='Bonus: Blocks vs. Procs vs. Lambdas, a.k.a. "Closures" in Ruby'>Bonus: Blocks vs. Procs vs. Lambdas, a.k.a. "Closures" in Ruby</a> on Learn.co and start learning to code for free.</p>
